@@ -43,7 +43,7 @@
 ### 🎨 3. AI 绘图与多媒体
 * **[Flux.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)**：目前画质最强的开源生图模型，支持写实文字。
 * **[Liblib 哩布哩布](https://www.liblib.art/)**：国内领先的 AI 创作平台，每日赠送免费生图额度。
-* **[Emu](https://image.tinchak0207.xyz)**：在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，无需中转站、无需申请 API Key，生成完直接下载。
+* **[Eimu](https://eimu.art)**：在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，无需中转站、无需申请 API Key，生成完直接下载。
 
 ---
 
