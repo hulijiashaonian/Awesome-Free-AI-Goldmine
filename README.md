@@ -34,6 +34,7 @@
 * **[DeepSeek](https://www.deepseek.com/)**：纯血国产大模型，性能直逼 GPT-4，响应速度极快，目前完全免费。
 * **[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI&ia=chat)**：无需注册，直接使用 GPT-4o-mini 和 Claude 3 Haiku。
 * **[HuggingChat](https://huggingface.co/chat/)**：开源界最强聚合，免费体验 Llama 3.1 等顶级开源模型。
+* **[WSUP AI](https://wsupai.app/)**：浏览器内免费 AI 角色聊天，无需注册，仅限 SFW。
 
 ### 🔌 2. 开发者专属 (高额度免费 API)
 * **[Google AI Studio](https://aistudio.google.com/)**：免费申请 Gemini 1.5 Pro 密钥，支持 200 万超长上下文。
