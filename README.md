@@ -30,7 +30,7 @@
 
 ## 🧭 资源金矿分类
 
-### 💎 1. 顶级 AI 对话 (免翻墙/低门槛)
+### 💎 1. 顶级 AI 对话 (低门槛)
 * **[DeepSeek](https://www.deepseek.com/)**：纯血国产大模型，性能直逼 GPT-4，响应速度极快，目前完全免费。
 * **[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI&ia=chat)**：无需注册，直接使用 GPT-4o-mini 和 Claude 3 Haiku。
 * **[HuggingChat](https://huggingface.co/chat/)**：开源界最强聚合，免费体验 Llama 3.1 等顶级开源模型。
