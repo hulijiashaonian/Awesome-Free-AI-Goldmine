@@ -43,6 +43,12 @@
 ### 🎨 3. AI 绘图与多媒体
 * **[Flux.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)**：目前画质最强的开源生图模型，支持写实文字。
 * **[Liblib 哩布哩布](https://www.liblib.art/)**：国内领先的 AI 创作平台，每日赠送免费生图额度。
+* **[PromptImage](https://promptimage.cloud)**：免费 AI 图片/视频工作室与提示词库，注册送积分、无需绑卡。
+* **[GrokVideo Studio](https://grokvideogenerator.dev)**：独立 Grok Imagine 文生/图生视频应用（非 xAI/X 官方），提供试用积分。
+* **[TeslaWraps](https://teslawraps.design)**：浏览器端 Tesla 车衣设计工具，核心编辑与 PNG 导出免费、无需账号。
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
 
 ---
 
